@@ -1,2 +1,2 @@
-# Mongodb Pivotal Workshop Jan 2020
+# MongoDB Pivotal Workshop Jan 2020
 
