@@ -1,1 +1,1 @@
-# mongodb_pivotal_workshop_jan_2020
+# Mongodb pivotal workshop Jan2020
