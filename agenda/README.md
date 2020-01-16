@@ -13,7 +13,6 @@
   - Pivotal Platform
   - GroundWorks 
   - Day 1 vs Day 2
-  - Accounts Setup
   
 #### Evolution of the database
   
