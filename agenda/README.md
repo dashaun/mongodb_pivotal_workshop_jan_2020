@@ -14,8 +14,8 @@
   - GroundWorks 
   - Day 1 vs Day 2
   
-#### Evolution of the database
-  
-#### Mongo 101
+#### MongoDB
+  - Evolution of the database
+  - Mongo 101
 
 #### Lab
