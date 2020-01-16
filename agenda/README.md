@@ -16,6 +16,6 @@
   
 #### MongoDB
   - Evolution of the database
-  - Mongo 101
+  - MongoDB 101
 
 #### Lab
